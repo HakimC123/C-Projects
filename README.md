@@ -3,4 +3,4 @@
 
 -Contains 4 text files (for testing purposes): goodofficer.txt, goodsoldier.txt, loyalty.txt, othertestcases.txt
 
--Contains 1 program files: main.c
+-Contains 1 program file: main.c
